@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(170, 247, 247);
+}
+
+h1 {
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 60%;
+    text-transform: lowercase;
+    border: 2px solid red;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+h2 {
+    background-color: rgb(0, 255, 110);
+    color: rgb(252, 1, 101);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 60%;
+    text-transform: lowercase;
+    border: 2px solid rgb(237, 245, 12);
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+p {
+    height:50px;
+    background-color: rgb(115, 0, 255);
+    color: rgb(248, 252, 1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 60%;
+    text-transform: uppercase;
+    border: 2px solid rgb(239, 4, 4);
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+li{
+    color:white;
+    text-transform: capitalize;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40px;
+    border: 4px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 12px;
+}
+/* Add CSS styles for visual effects */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* Rounded corners effect */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Box shadow effect */
+}
+
+/* Add CSS rule to display an image via CSS */
+.image-via-css {
+  background-image: url('chicken.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+/* Add CSS styles for visual effects */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* Rounded corners effect */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Box shadow effect */
+}
+
+/* Add CSS rule to display an image via CSS */
+.image-via-css {
+  background-image: url('chicken.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; /* Rounded corners effect */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Box shadow effect */
+}
+
+.image-via-css {
+  background-image: url('image1.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
+
+
+
